@@ -3,8 +3,8 @@
 - I learned alot about Positioning in CSS while building this project
 - There is a use of absolute and relative position property
 
+![Screen-shot](assets/Screenshot%20from%202022-08-06%2003-47-50.png)
 
-![Screen shot](assets/Screenshot from 2022-08-06 03-47-50.png)
 
 <br>
 
