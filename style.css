@@ -1,0 +1,111 @@
+body{
+    margin: 2% 5%;
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    margin: 2%;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    align-items: center;
+    flex: 2 ;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.list-item{
+    text-decoration: none;
+    margin-right: 50px;
+   
+}
+.button-group{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.nav-button{
+    border: 3px solid black;
+    padding: 6px 42px;
+    font-size: 23px;
+    background: white;
+    color: #58666c;
+    border-radius: 15.5px;
+}
+.search-icon{
+    margin-right: 20px;
+}
+.hero-container{
+    margin-top: 5%;
+    height: 80vh;
+}
+img[alt="person-hero-iamge"]{
+    position: absolute;
+    top: 24%;
+}
+.square{
+    position: absolute;
+    top: 63%;
+    left: 17%;
+}
+.globe{
+    position: absolute;
+    top: 18%;
+    left: 52%;
+}
+.star{
+    position: absolute;
+    right: 6%;
+}
+.hero-container-right{
+    position: absolute;
+    right: 3%;
+    top: 30%;
+    width: 53%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.hero-heading{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 60px;
+}
+.hero-description{
+    font-family: 'Poppins', sans-serif;
+    color: #58666c;
+    text-align: center;
+    width: 74%;
+    margin-bottom: 12%;
+}
+.button-email{
+    font-family: 'Orbitron', sans-serif;
+    border: 3px solid black;
+    padding: 4px 35px;
+    font-size: 21px;
+    background: white;
+    color: #58666c;
+    border-radius: 15.5px;
+    margin-right: 1.3rem;
+}
+.button-join{
+    font-family: 'Orbitron', sans-serif;
+    border: 3px solid black;
+    padding: 4px 10pxpx;
+    font-size: 21px;
+    background: black;
+    color: white;
+    border-radius: 15.5px;
+}
+.contact-heading{
+    color: #58666c;
+    text-align: center;
+    margin-top: 60%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+}
